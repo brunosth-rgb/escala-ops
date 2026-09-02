@@ -1,0 +1,20 @@
+{
+  "name": "escala-patio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Quadro de escala operacional do pátio — JBS Terminais",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "start": "node servidor.js"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "vite": "^5.4.11"
+  }
+}
